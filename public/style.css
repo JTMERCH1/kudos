@@ -1,0 +1,25 @@
+html {
+
+}
+
+.title-header {
+    float: left;
+    width: 90%;
+}
+
+.title-icon {
+    float: right;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+
+.form-area {
+  margin: 5px 0;
+}
